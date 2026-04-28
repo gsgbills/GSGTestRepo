@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "GSGTestRepo"
+  site-url: "https://gsgbills.github.io/GSGTestRepo"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/gsgbills/GSGTestRepo"
